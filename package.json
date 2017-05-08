@@ -1,0 +1,8 @@
+{
+  "name": "slog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kevindurb/slog.git",
+  "author": "Kevin Durbin <kevindurb@gmail.com>",
+  "license": "MIT"
+}
